@@ -39,24 +39,26 @@ python main.py <city_name> [options]
 
 ## 📝 Examples
 
-# Get weather for London
+Get weather for London
+```bash
 python main.py London
+```
 
-# Get weather for New York and save to file
+Get weather for New York and save to file
+```bash
 python main.py "New York" -s
+```
 
 ## 📊 Example Output
 
-==================================================
 Weather in London, GB
 Date & Time: 2023-09-10 12:34:56
-==================================================
+
 Temperature: 18.5°C
 Feels like: 17.9°C
 Weather: Partly cloudy
 Humidity: 72%
 Wind Speed: 4.12 m/s
-==================================================
 
 ## 📄 License
 
