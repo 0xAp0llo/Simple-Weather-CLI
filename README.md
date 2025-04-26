@@ -35,7 +35,7 @@ python main.py <city_name> [options]
 
 ## ⚙️ Options
 
--s, --save: Save weather data to a JSON file
+- `-s, --save`: Save weather data to a JSON file
 
 ## 📝 Examples
 
