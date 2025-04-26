@@ -26,7 +26,7 @@ cd simple-weather-cli
 pip install -r requirements.txt
 ```
 
-3. Get an API key from [OpenWeatherMap](https://openweathermap.org/api) and replace `YOUR_API_KEY` in main.py with your actual API key.
+3. Get an API key from [OpenWeatherMap](https://openweathermap.org/api) and replace `YOUR_API_KEY` in `main.py` with your actual API key.
 
 ## 🔍 Usage
 ```bash
