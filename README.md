@@ -63,3 +63,5 @@ Wind Speed: 4.12 m/s
 ## 📄 License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
+
+This is my first commit for contributions.
