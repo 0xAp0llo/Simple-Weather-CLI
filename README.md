@@ -17,7 +17,7 @@ A simple command line tool that fetches and displays current weather information
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/simple-weather-cli.git
+git clone https://github.com/0xAp0llo/simple-weather-cli.git
 cd simple-weather-cli
 ```
 
