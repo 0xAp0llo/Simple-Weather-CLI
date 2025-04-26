@@ -16,11 +16,12 @@ A simple command line tool that fetches and displays current weather information
 ## 🚀 Installation
 
 1. Clone this repository:
+```bash
 git clone https://github.com/yourusername/simple-weather-cli.git
 cd simple-weather-cli
 
 2. Install requirements:
-
+```bash
 bashpip install -r requirements.txt
 
 3. Get an API key from OpenWeatherMap and replace YOUR_API_KEY in main.py with your actual
